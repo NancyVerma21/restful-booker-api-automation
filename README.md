@@ -1,6 +1,6 @@
 ﻿# RESTful Booker API Automation
 
-A portfolio-ready API testing framework built with **Python, Pytest, Requests, JSON Schema, Allure, and GitHub Actions**.
+This repository contains automated tests for the RESTful Booker practice API using Python, Pytest, Requests, JSON Schema, Allure, and GitHub Actions.
 
 ## Features
 
@@ -94,3 +94,4 @@ GitHub Actions runs the API tests on pushes and pull requests and uploads the Al
 ## Notes
 
 This project targets a shared public practice API. Its availability and data may change, so transient external service failures can occur. Tests create their own bookings and only delete bookings created during their own test runs.
+
