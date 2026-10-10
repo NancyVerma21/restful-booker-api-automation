@@ -1,0 +1,5 @@
+﻿pytest
+requests
+jsonschema
+allure-pytest
+python-dotenv

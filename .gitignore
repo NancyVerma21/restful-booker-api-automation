@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+allure-results/
+allure-report/
+htmlcov/
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
